@@ -1,0 +1,159 @@
+{
+    "code": 0,
+    "msg": "",
+    "count": 19,
+    "data": [
+        {
+            "PopID": "1",
+            "PopName": "权限管理",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "2",
+            "PopName": "人员管理",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "3",
+            "PopName": "直播管理",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "4",
+            "PopName": "分区管理",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "5",
+            "PopName": "意见箱",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "6",
+            "PopName": "权限菜单",
+            "Parent": "1",
+            "PopArea": "SystemArea",
+            "PopControll": "PopedomManager",
+            "PopState": "1"
+        },
+        {
+            "PopID": "7",
+            "PopName": "角色管理",
+            "Parent": "1",
+            "PopArea": "SystemArea",
+            "PopControll": "RoleManager",
+            "PopState": "1"
+        },
+        {
+            "PopID": "8",
+            "PopName": "用户管理",
+            "Parent": "1",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "9",
+            "PopName": "主播管理",
+            "Parent": "2",
+            "PopArea": "LabourArea",
+            "PopControll": "Anchor",
+            "PopState": "1"
+        },
+        {
+            "PopID": "10",
+            "PopName": "勋章管理",
+            "Parent": "2",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "11",
+            "PopName": "合同管理",
+            "Parent": "2",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "12",
+            "PopName": "直播间管理",
+            "Parent": "3",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "13",
+            "PopName": "时长管理",
+            "Parent": "3",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "14",
+            "PopName": "小黑屋",
+            "Parent": "3",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "15",
+            "PopName": "区域管理",
+            "Parent": "4",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "16",
+            "PopName": "数据统计",
+            "Parent": "0",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "17",
+            "PopName": "时长统计",
+            "Parent": "16",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "18",
+            "PopName": "热门统计",
+            "Parent": "16",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        },
+        {
+            "PopID": "19",
+            "PopName": "客诉统计",
+            "Parent": "16",
+            "PopArea": "",
+            "PopControll": "",
+            "PopState": "1"
+        }
+    ]
+}
